@@ -586,6 +586,7 @@ markers:
   - {type: line-break, offset: 1479, content: '', id: KR4d0384_WYG_008-7b02}
   - {type: indent, offset: 1479, content: 　　　, id: KR4d0384_krp_008-bkkind45}
   - {type: punctuation, offset: 1481, content: (, id: KR4d0384_krp_008-bkkpn1}
+  - {type: voice, offset: 1481, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1483, content: /, id: KR4d0384_krp_008-bkkpn2}
   - {type: punctuation, offset: 1483, content: ), id: KR4d0384_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 1483, content: '
@@ -674,6 +675,7 @@ markers:
   - {type: line-break, offset: 1684, content: '', id: KR4d0384_WYG_008-8b01}
   - {type: indent, offset: 1684, content: 　　　, id: KR4d0384_krp_008-bkkind56}
   - {type: punctuation, offset: 1694, content: (, id: KR4d0384_krp_008-bkkpn4}
+  - {type: voice, offset: 1694, length: 62, name: note, id: n2}
   - {type: substitution, offset: 1698, original: 隐, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17393}}
   - {type: punctuation, offset: 1702, content: /, id: KR4d0384_krp_008-bkkpn5}
   - {type: punctuation, offset: 1710, content: ), id: KR4d0384_krp_008-bkkpn6}
@@ -794,6 +796,7 @@ markers:
   - {type: line-break, offset: 1971, content: '', id: KR4d0384_WYG_008-9b06}
   - {type: indent, offset: 1971, content: 　　　, id: KR4d0384_krp_008-bkkind63}
   - {type: punctuation, offset: 1973, content: (, id: KR4d0384_krp_008-bkkpn13}
+  - {type: voice, offset: 1973, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1976, content: /, id: KR4d0384_krp_008-bkkpn14}
   - {type: punctuation, offset: 1978, content: ), id: KR4d0384_krp_008-bkkpn15}
   - {type: 'kr:newline', offset: 1978, content: '
@@ -1370,4 +1373,4 @@ markers:
 
       ', id: KR4d0384_krp_008-bkkkrnewl280}
   back: []
-hash: sha256:0ae1ade8ceafd7fcdbbe077b025e6f435dbae5bdbdf1ea883234b1aa5908cf17
+hash: sha256:3758753e9485fe6f00dfc6174bbe52463ffd3f4217bf4a44678ee99beb838ab7
